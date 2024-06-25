@@ -1,0 +1,4 @@
+[core]
+    remote = aws-remote
+['remote "aws-remote"']
+    url = s3://dvc-tutorial-datacamp
